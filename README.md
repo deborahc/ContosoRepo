@@ -14,8 +14,7 @@ You can also download these notebooks and upload them manually to your notebooks
 This notebook shows an overview of features available in the latest preview of Azure Cosmos DB built-in C# notebooks. 
 
 ## Notebook 2: Autoscale provisioned throughput demo
-This notebook sets up a basic benchmark test against a container configured with autoscale. To run this notebook in your environment, insert the following into the first notebook cell. 
-
+This notebook sets up a basic benchmark test against a container configured with autoscale. 
 
 ## Additional resources
 Blog: [What's new in Azure Cosmos DB built-in C# notebooks](https://devblogs.microsoft.com/cosmosdb/csharp-notebooks/)
